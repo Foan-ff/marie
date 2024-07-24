@@ -27,7 +27,7 @@ const info = {
       address: { value: '广东省深圳市南山区玉泉路146号毅哲大厦四楼', editor: '#fjdnv' },
       liveCity: { value: '440300000000', editor: '#jzd_citynv', },
       liveArea: { value: '440305000000', editor: '#jzd_countynv' },
-      liveStreet: { value: '440305010000', editor: '#jzd_townnv', },
+      liveStreet: { value: '440305002000', editor: '#jzd_townnv', },
     },
 
     secondPageInfo: {
