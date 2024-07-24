@@ -2,45 +2,45 @@ const info = {
   male: {
     firstPageInfo: {
       city: { value: '440300000000', editor: '#area_citynan' },
-      area: { value: '440305000000', editor: '#area_countynan' },
-      street: { value: '440305002000', editor: '#area_townnan', },
-      address: { value: '广东省深圳市南山区XXX', editor: '#fjdnan' },
+      area: { value: '440307000000', editor: '#area_countynan' },
+      street: { value: '440307013000', editor: '#area_townnan', },
+      address: { value: '广东省深圳市龙岗区布龙路610号110室', editor: '#fjdnan' },
       liveCity: { value: '440300000000', editor: '#jzd_citynan', },
-      liveArea: { value: '440304000000', editor: '#jzd_countynan' },
-      liveStreet: { value: '440304010000', editor: '#jzd_townnan', },
+      liveArea: { value: '440307000000', editor: '#jzd_countynan' },
+      liveStreet: { value: '440307013000', editor: '#jzd_townnan', },
     },
 
     secondPageInfo: {
-      name: { value: '刘XX', editor: '#xmnan', },
-      id: { value: '610102XXXXXXXXXXXX', editor: '#sfzjhmnan', },
-      degree: { value: '大学', editor: '#whcdnan', },
+      name: { value: '徐云帆', editor: '#xmnan', },
+      id: { value: '412428199806220816', editor: '#sfzjhmnan', },
+      degree: { value: '硕士研究生', editor: '#whcdnan', },
       job: { value: '专业技术人员', editor: '#zynan', },
-      phone: { value: '155XXXXXXXX', editor: '#lxdhnan', },
+      phone: { value: '15062218825', editor: '#lxdhnan', },
     },
   },
 
   female: {
     firstPageInfo: {
       city: { value: '440300000000', editor: '#area_citynv' },
-      area: { value: '440304000000', editor: '#area_countynv' },
-      street: { value: '440304011000', editor: '#area_townnv', },
-      address: { value: '广东省深圳市福田区XXX', editor: '#fjdnv' },
+      area: { value: '440305000000', editor: '#area_countynv' },
+      street: { value: '440305010000', editor: '#area_townnv', },
+      address: { value: '广东省深圳市南山区玉泉路146号毅哲大厦四楼', editor: '#fjdnv' },
       liveCity: { value: '440300000000', editor: '#jzd_citynv', },
-      liveArea: { value: '440304000000', editor: '#jzd_countynv' },
-      liveStreet: { value: '440304010000', editor: '#jzd_townnv', },
+      liveArea: { value: '440305000000', editor: '#jzd_countynv' },
+      liveStreet: { value: '440305010000', editor: '#jzd_townnv', },
     },
 
     secondPageInfo: {
-      name: { value: '卢XX', editor: '#xmnv', },
-      id: { value: '42XXXXXXXXXXXXXXXX', editor: '#sfzjhmnv', },
+      name: { value: '席晨璐', editor: '#xmnv', },
+      id: { value: '610302199804242026', editor: '#sfzjhmnv', },
       degree: { value: '硕士研究生', editor: '#whcdnv', },
-      job: { value: '其他从业人员', editor: '#zynv', },
-      phone: { value: '158XXXXXXXX', editor: '#lxdhnv', },
+      job: { value: '专业技术人员', editor: '#zynv', },
+      phone: { value: '18392759144', editor: '#lxdhnv', },
     },
   },
 
   address: {
-    date: '2023-09-26',
+    date: '2023-08-02',
     city: '440300000000',
   },
 };
